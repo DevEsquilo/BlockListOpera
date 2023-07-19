@@ -7,13 +7,3 @@
 !
 !
 notranslate
-.notranslate
-/notranslate
-_notranslate
-#notranslate
-##notranslate
-#.notranslate
-##notranslate
-##.notranslate
-|notranslate
-||notranslate
