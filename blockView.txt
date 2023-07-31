@@ -7,3 +7,4 @@
 !
 !
 notranslate
+credential_picker_container
