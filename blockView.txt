@@ -8,4 +8,4 @@
 !
 notranslate
 credential_picker_container
-https://accounts.google.com/gsi/iframe/select?client_id=388036620207-3uolk1hv6ta7p3r9l6s3bobifh086qe1.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=rc1xVFSeyNWRjpLNCLOftQ&channel_id=e390e5b2b1132470d5df4711356e732aa367ff214bc820e501e13bb7d949cdd9&origin=https%3A%2F%2Fwww.geeksforgeeks.org
+https://accounts.google.com/gsi/iframe/select?client_id=*
