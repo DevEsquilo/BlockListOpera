@@ -11,3 +11,4 @@ credential_picker_container
 https://accounts.google.com/gsi/iframe/select?client_id=*
 *adsystem*
 *pushnews*
+*.Pushnews.online*
